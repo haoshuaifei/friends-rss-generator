@@ -1,6 +1,6 @@
 leancloud==3.0.1
 fastapi==0.111.0
-uvicorn==0.30.1
+uvicorn
 requests
 PyMySQL==1.1.1
 SQLAlchemy==2.0.31
